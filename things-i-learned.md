@@ -2,3 +2,4 @@
 1. Base score checker.not a good score though
 2. swapped on uniswap
 3. swapped on aerodrome
+4. depositted on moonwell
