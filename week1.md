@@ -4,3 +4,4 @@ Week 1
 - Connected GitHub to Base
 - Learned what a commit is
 - Used Uniswap
+- Used Aerodrome
