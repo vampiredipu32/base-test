@@ -5,3 +5,5 @@ Week 1
 - Learned what a commit is
 - Used Uniswap
 - Used Aerodrome
+- Depositted on Moonwell
+- 
