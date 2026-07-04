@@ -6,4 +6,5 @@ Week 1
 - Used Uniswap
 - Used Aerodrome
 - Depositted on Moonwell
+- Funds on Moonwell seems to be stuck
 - 
