@@ -3,3 +3,5 @@
 2. swapped on uniswap
 3. swapped on aerodrome
 4. depositted on moonwell
+5. Swapping on Aerodrome daily. But my tx count seems to not increasing.
+6. 
